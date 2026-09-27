@@ -1,10 +1,11 @@
 # ajp-protocol
 
 > **Status: maintained, not developed.** AJP stays published and receives security
-> fixes, but gets no new features. For new projects handing work between agents,
-> use [A2A](https://github.com/a2aproject/A2A), where the ecosystem is converging.
-> Agent identity and signed declarations work alongside either, through the
-> [Provenance Protocol](https://github.com/provenance-protocol/provenance-protocol).
+> fixes, but gets no new features. For new projects, agent-to-agent work is
+> converging on the open [A2A](https://github.com/a2aproject/A2A) protocol — and the
+> [Provenance Protocol](https://github.com/provenance-protocol/provenance-protocol)
+> works alongside it: signed declarations, verifiable identity and attestations for
+> A2A agents, linked from their Agent Cards.
 
 The Agent Job Protocol — standard interaction layer for the agent internet.
 Built on the [Provenance Protocol](https://github.com/provenance-protocol/provenance-protocol):
@@ -282,4 +283,6 @@ resolves through an index you choose instead.
 
 ---
 
-## MIT License
+## License
+
+Apache License 2.0 — see [LICENSE](./LICENSE). Versions before 0.3.3 were released under MIT.

@@ -416,7 +416,7 @@ Indexes may also record it, as a convenience.
 
 ## Implementing this specification
 
-This specification and its JSON Schema are published under the MIT Licence.
+This specification and its JSON Schema are published under the Apache License, Version 2.0.
 You may implement them in any language, for any purpose, commercial or
 otherwise, without permission, notification or fee.
 
@@ -434,5 +434,5 @@ version. Future versions add fields, never remove them.
 
 ---
 
-*AJP v0.1 — MIT License*
+*AJP v0.1 — Apache License 2.0*
 *https://github.com/provenance-protocol/ajp-protocol*
